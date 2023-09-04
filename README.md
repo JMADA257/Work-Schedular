@@ -45,5 +45,5 @@ Click the save button
 ## Links and SS
 
 [link](https://github.com/JMADA257/Work-Schedular)
-[link]
+[link](https://jmada257.github.io/Work-Schedular/)
 ![Screenshot](./Develop/Screenshot.png)
